@@ -1,0 +1,17 @@
+{
+  "name": "test-bot",
+  "version": "0.0.1",
+  "description": "node bot boilerplate",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabe Dalay",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.9.61",
+    "pizzapi": "0.0.8",
+    "tessel-io": "^0.6.4",
+    "twilio": "^2.9.1"
+  }
+}
